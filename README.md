@@ -1,4 +1,6 @@
+ ### <div align="center"> [Acesse aqui](https://catalogo-pokedex.netlify.app/)
 
+<img src="./pokedex.JPG" align="center" height="400em" width="100%">
 # Random User Generator - Projeto Web com Integração MongoDB
 
 Este projeto é uma aplicação web que gera e exibe informações de usuários aleatórios usando a API `randomuser.me`, com uma interface de usuário interativa. O projeto também integra o MongoDB para armazenamento e gerenciamento de dados. 
